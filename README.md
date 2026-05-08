@@ -9,11 +9,11 @@ balance trends, and churn patterns across different customer groups.
 ----------------------------
 
 ## Project Objectives
-*Analyze customer churn patterns
-*Monitor customer retention metrics
-*Identify factors affecting churn rate
-*Create interactive visual dashboards
-*Help businesses improve customer engagement strategies
+* Analyze customer churn patterns
+* Monitor customer retention metrics
+* Identify factors affecting churn rate
+* Create interactive visual dashboards
+* Help businesses improve customer engagement strategies
 
 -----------------------------
 ## Dataset Information
