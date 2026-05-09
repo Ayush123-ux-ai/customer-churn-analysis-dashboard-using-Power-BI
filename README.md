@@ -91,6 +91,7 @@ balance trends, and churn patterns across different customer groups.
 
 --------------------------------------
 ## Dashboard Overview
+* https://github.com/Ayush123-ux-ai/customer-churn-analysis-dashboard-using-Power-BI/blob/main/Screenshot%202026-05-08%20195729.png
 
 
 
