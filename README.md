@@ -59,3 +59,38 @@ balance trends, and churn patterns across different customer groups.
 * Region-wise filtering
 * Interactive dashboard navigation
 
+-----------------------
+## Data Cleaning & Transformation
+### The dataset contained:
+* Missing values
+* Inconsistent records
+* Unstructured customer information
+### Data preprocessing steps performed:
+* Handling null values
+* Data formatting
+* Removing duplicates
+* Feature categorization
+* Data transformation using Power Query
+
+---------------------------------
+## Key Insights
+* Customers with poor feedback showed higher churn rates
+* Medium-aged customers formed the largest customer segment
+* Churn increased significantly in recent years
+* Long-term customers had lower churn probability
+* Active customers were more likely to stay retained
+
+--------------------------------
+## Business Impact
+### This dashboard helps businesses:
+* Reduce customer churn
+* Improve customer satisfaction
+* Increase customer retention
+* Make data-driven decisions
+* Track customer behavior effectively
+
+--------------------------------------
+
+
+
+
