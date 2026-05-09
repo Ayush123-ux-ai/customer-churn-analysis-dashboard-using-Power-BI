@@ -33,4 +33,29 @@ balance trends, and churn patterns across different customer groups.
 * **Churn**-Indicates whether the customer left the company (Yes/No)
 * **Feedback**-Customer feedback category or satisfaction level
 
+-----------------------------
+## Tools & Technologies Used
+* Power BI
+* Power Query
+* DAX
+* Excel / CSV Dataset
+* Data Cleaning Techniques
+* Data Visualization
+
+-------------------------
+## Dashboard Features
+### KPI Cards
+* Churn Rate
+* Average Balance
+* Active Rate
+* Total Customers
+### Visualizations
+* Customer distribution by age group
+* Churn rate by customer feedback
+* Churn vs retained customers
+* Churn trends by year
+* Tenure-based churn analysis
+### Filters
+* Region-wise filtering
+* Interactive dashboard navigation
 
