@@ -3,7 +3,7 @@
 --------------------
 ## Project Overview
 This project focuses on analyzing customer churn behavior using interactive business intelligence dashboards. The main objective of this project is to identify the key factors that 
-influence customer churn and help businesses improve customer retention strategies.The dashboard provides insights into customer demographics, account activity, customer feedback, 
+influence customer churn and help businesses improve customer retention strategies.The dashboard provides insights into customer demographics, customer feedback, 
 balance trends, and churn patterns across different customer groups.
 
 ----------------------------
