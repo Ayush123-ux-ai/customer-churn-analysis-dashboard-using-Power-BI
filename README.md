@@ -18,20 +18,19 @@ balance trends, and churn patterns across different customer groups.
 -----------------------------
 ## Dataset Information
 ### Key columns
-* CustomerID-Unique identifier assigned to each customer
-* Surname-Last name of the customer
-* CreditScore-Customer’s credit score used for financial analysis
-* Geography- Region or country where the customer belongs
-* Gender-Gender of the customer
-* Age- Age of the customer
-* Tenure-Number of years the customer has stayed with the company
-* Balance-Current account balance of the customer
-* NumOfProducts-Total number of banking products used by the customer
-* HasCrCard-Indicates whether the customer owns a credit card (Yes/No)
-* IsActiveMember-Shows whether the customer is an active member
-* EstimatedSalary-Estimated annual salary of the customer
-* Feedback-Customer feedback category or satisfaction level
-* SatisfactionScore-Customer satisfaction rating score
-* Churn-Indicates whether the customer left the company (Yes/No)
+* **CustomerID**-Unique identifier assigned to each customer
+* **Gender**-Gender of the customer
+* **Age**- Age of the customer
+* **Region**-Geographic area or branch location where the customer belongs or where the service is provided
+* **Tenure**-Number of years the customer has stayed with the company
+* **Balance**-Current account balance of the customer
+* **NumOfProducts**-Total number of banking products used by the customer
+* **HasCrCard**-Indicates whether the customer owns a credit card (Yes/No)
+* **IsActiveMember**-Shows whether the customer is an active member
+* **EstimatedSalary**-Estimated annual salary of the customer
+* **JoinDate**-The date when the customer joined or created an account with the company
+* **LastActivityDate**-The most recent date when the customer interacted or performed any activity with the company
+* **Churn**-Indicates whether the customer left the company (Yes/No)
+* **Feedback**-Customer feedback category or satisfaction level
 
 
